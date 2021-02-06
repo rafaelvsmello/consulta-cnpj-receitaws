@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="litedb" Version="5.0.10" />
     <PackageReference Include="newtonsoft.json" Version="12.0.3" />
   </ItemGroup>
 
