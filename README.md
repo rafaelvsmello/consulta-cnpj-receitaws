@@ -11,6 +11,6 @@ Projeto para consultar CNPJ utilizando .net core + API ReceitaWS
 # Etapas
 - [x] Consulta de CNPJ
 - [x] Tratamento de erros 
-- [ ] Cadastrar empresas
+- [x] Cadastrar empresas
 - [ ] Remover empresas 
-- [ ] Pesquisar empresas
+- [x] Pesquisar empresas
